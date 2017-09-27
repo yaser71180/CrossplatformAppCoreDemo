@@ -1,0 +1,10 @@
+C:\xplat\CheckLinksConsole\bin\Debug\netcoreapp2.0\CheckLinksConsole.deps.json
+C:\xplat\CheckLinksConsole\bin\Debug\netcoreapp2.0\CheckLinksConsole.runtimeconfig.json
+C:\xplat\CheckLinksConsole\bin\Debug\netcoreapp2.0\CheckLinksConsole.runtimeconfig.dev.json
+C:\xplat\CheckLinksConsole\bin\Debug\netcoreapp2.0\CheckLinksConsole.dll
+C:\xplat\CheckLinksConsole\bin\Debug\netcoreapp2.0\CheckLinksConsole.pdb
+C:\xplat\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.csproj.CoreCompileInputs.cache
+C:\xplat\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.AssemblyInfoInputs.cache
+C:\xplat\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.AssemblyInfo.cs
+C:\xplat\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.dll
+C:\xplat\CheckLinksConsole\obj\Debug\netcoreapp2.0\CheckLinksConsole.pdb
